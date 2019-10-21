@@ -1,0 +1,17 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Fitness:
+20	50	Tournament(4)	PMX	0.7	inversion	0.3		45.0
+20	100	Tournament(4)	PMX	0.7	inversion	0.3		45.0
+20	500	Tournament(4)	PMX	0.7	inversion	0.3		45.0
+20	1000	Tournament(4)	PMX	0.7	inversion	0.3		45.0
+50	50	Tournament(4)	PMX	0.7	inversion	0.3		45.0
+50	100	Tournament(4)	PMX	0.7	inversion	0.3		45.0
+50	500	Tournament(4)	PMX	0.7	inversion	0.3		45.0
+50	1000	Tournament(4)	PMX	0.7	inversion	0.3		45.0
+100	50	Tournament(4)	PMX	0.7	inversion	0.3		45.0
+100	100	Tournament(4)	PMX	0.7	inversion	0.3		45.0
+100	500	Tournament(4)	PMX	0.7	inversion	0.3		45.0
+100	1000	Tournament(4)	PMX	0.7	inversion	0.3		45.0
+200	50	Tournament(4)	PMX	0.7	inversion	0.3		45.0
+200	100	Tournament(4)	PMX	0.7	inversion	0.3		45.0
+200	500	Tournament(4)	PMX	0.7	inversion	0.3		45.0
+200	1000	Tournament(4)	PMX	0.7	inversion	0.3		45.0

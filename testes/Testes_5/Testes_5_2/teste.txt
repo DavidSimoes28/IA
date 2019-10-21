@@ -1,0 +1,31 @@
+Runs: 50
+
+Population size: 100
+
+Max generations: 500
+
+//--------------------------------
+
+Selection: tournament
+
+Tournament size: 2, 4, 6, 8
+
+//--------------------------------
+
+Recombination: PMX
+Recombination probability: 0.7
+
+//--------------------------------
+
+Mutation: IVM
+
+Mutation probability: 0.3
+
+//--------------------------------
+
+Problem file: ./DataSets/puzzle_5.txt
+
+//--------------------------------
+
+Statistic: BestIndividual
+Statistic: BestAverage

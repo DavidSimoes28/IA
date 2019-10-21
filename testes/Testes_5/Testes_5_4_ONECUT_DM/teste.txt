@@ -1,0 +1,31 @@
+Runs: 50
+
+Population size: 100
+
+Max generations: 500
+
+//--------------------------------
+
+Selection: tournament
+
+Tournament size: 4
+
+//--------------------------------
+
+Recombination: ONECUT
+Recombination probability: 0.9
+
+//--------------------------------
+
+Mutation: DM
+
+Mutation probability: 0.05, 0.1, 0.15, 0.2, 0.25, 0.3, 0.35, 0.4
+
+//--------------------------------
+
+Problem file: ./DataSets/puzzle_5.txt
+
+//--------------------------------
+
+Statistic: BestIndividual
+Statistic: BestAverage

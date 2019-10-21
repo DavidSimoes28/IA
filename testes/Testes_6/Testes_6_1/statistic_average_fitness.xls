@@ -1,0 +1,17 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:	StdDev:
+20	50	Tournament(4)	PMX	0.7	inversion	0.3		180.56	11.643298501713335
+20	100	Tournament(4)	PMX	0.7	inversion	0.3		155.04	10.20188217928437
+20	500	Tournament(4)	PMX	0.7	inversion	0.3		115.52	7.6085215383805025
+20	1000	Tournament(4)	PMX	0.7	inversion	0.3		106.04	6.056269478812845
+50	50	Tournament(4)	PMX	0.7	inversion	0.3		160.72	11.200071428343662
+50	100	Tournament(4)	PMX	0.7	inversion	0.3		133.84	9.157204813697247
+50	500	Tournament(4)	PMX	0.7	inversion	0.3		103.24	5.420553477275178
+50	1000	Tournament(4)	PMX	0.7	inversion	0.3		98.52	4.972886485734417
+100	50	Tournament(4)	PMX	0.7	inversion	0.3		147.8	8.772684879784524
+100	100	Tournament(4)	PMX	0.7	inversion	0.3		122.32	7.327864627570574
+100	500	Tournament(4)	PMX	0.7	inversion	0.3		98.72	4.560877108627242
+100	1000	Tournament(4)	PMX	0.7	inversion	0.3		95.84	4.041583847948722
+200	50	Tournament(4)	PMX	0.7	inversion	0.3		141.28	9.74892814621177
+200	100	Tournament(4)	PMX	0.7	inversion	0.3		113.72	6.48394941374468
+200	500	Tournament(4)	PMX	0.7	inversion	0.3		96.48	3.8327013971871073
+200	1000	Tournament(4)	PMX	0.7	inversion	0.3		95.44	4.045540754954767

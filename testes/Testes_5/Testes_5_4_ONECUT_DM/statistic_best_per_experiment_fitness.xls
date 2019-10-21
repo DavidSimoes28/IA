@@ -1,0 +1,9 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Fitness:
+100	500	Tournament(4)	One Cut Recombination (ONECUT)	0.9	displacement	0.05		45.0
+100	500	Tournament(4)	One Cut Recombination (ONECUT)	0.9	displacement	0.1		45.0
+100	500	Tournament(4)	One Cut Recombination (ONECUT)	0.9	displacement	0.15		45.0
+100	500	Tournament(4)	One Cut Recombination (ONECUT)	0.9	displacement	0.2		45.0
+100	500	Tournament(4)	One Cut Recombination (ONECUT)	0.9	displacement	0.25		45.0
+100	500	Tournament(4)	One Cut Recombination (ONECUT)	0.9	displacement	0.3		45.0
+100	500	Tournament(4)	One Cut Recombination (ONECUT)	0.9	displacement	0.35		45.0
+100	500	Tournament(4)	One Cut Recombination (ONECUT)	0.9	displacement	0.4		45.0

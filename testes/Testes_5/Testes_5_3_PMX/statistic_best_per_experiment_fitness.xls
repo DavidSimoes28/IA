@@ -1,0 +1,10 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Fitness:
+100	500	Tournament(4)	Partial Mapped Crossover (PMX)	0.5	inversion	0.3		45.0
+100	500	Tournament(4)	Partial Mapped Crossover (PMX)	0.55	inversion	0.3		45.0
+100	500	Tournament(4)	Partial Mapped Crossover (PMX)	0.6	inversion	0.3		45.0
+100	500	Tournament(4)	Partial Mapped Crossover (PMX)	0.65	inversion	0.3		45.0
+100	500	Tournament(4)	Partial Mapped Crossover (PMX)	0.7	inversion	0.3		45.0
+100	500	Tournament(4)	Partial Mapped Crossover (PMX)	0.75	inversion	0.3		45.0
+100	500	Tournament(4)	Partial Mapped Crossover (PMX)	0.8	inversion	0.3		45.0
+100	500	Tournament(4)	Partial Mapped Crossover (PMX)	0.85	inversion	0.3		45.0
+100	500	Tournament(4)	Partial Mapped Crossover (PMX)	0.9	inversion	0.3		45.0

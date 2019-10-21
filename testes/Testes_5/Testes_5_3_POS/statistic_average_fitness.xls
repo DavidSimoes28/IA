@@ -1,0 +1,10 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:	StdDev:
+100	500	Tournament(4)	Position Based Crossover (POS)	0.5	inversion	0.3		45.16	0.5425863986500215
+100	500	Tournament(4)	Position Based Crossover (POS)	0.55	inversion	0.3		45.16	0.5425863986500215
+100	500	Tournament(4)	Position Based Crossover (POS)	0.6	inversion	0.3		45.32	0.8352245207128437
+100	500	Tournament(4)	Position Based Crossover (POS)	0.65	inversion	0.3		45.2	0.7211102550927988
+100	500	Tournament(4)	Position Based Crossover (POS)	0.7	inversion	0.3		45.12	0.47497368348151714
+100	500	Tournament(4)	Position Based Crossover (POS)	0.75	inversion	0.3		45.08	0.39191835884530846
+100	500	Tournament(4)	Position Based Crossover (POS)	0.8	inversion	0.3		45.08	0.39191835884530846
+100	500	Tournament(4)	Position Based Crossover (POS)	0.85	inversion	0.3		45.04	0.2799999999999998
+100	500	Tournament(4)	Position Based Crossover (POS)	0.9	inversion	0.3		45.16	0.5425863986500215

@@ -1,0 +1,33 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:	StdDev:
+100	1000	Tournament(6)	Partial Mapped Crossover (PMX)	0.5	inversion	0.3		95.6	3.7788887255382386
+100	1000	Tournament(6)	Partial Mapped Crossover (PMX)	0.55	inversion	0.3		94.56	3.7797354404772814
+100	1000	Tournament(6)	Partial Mapped Crossover (PMX)	0.6	inversion	0.3		95.28	4.289708614812898
+100	1000	Tournament(6)	Partial Mapped Crossover (PMX)	0.65	inversion	0.3		94.92	4.039009779636589
+100	1000	Tournament(6)	Partial Mapped Crossover (PMX)	0.7	inversion	0.3		95.52	3.5509998591945915
+100	1000	Tournament(6)	Partial Mapped Crossover (PMX)	0.75	inversion	0.3		94.8	4.12310562561766
+100	1000	Tournament(6)	Partial Mapped Crossover (PMX)	0.8	inversion	0.3		95.2	4.084115571332428
+100	1000	Tournament(6)	Partial Mapped Crossover (PMX)	0.85	inversion	0.3		95.08	3.3931696096717587
+100	1000	Tournament(6)	Order Crossover (OX1)	0.5	inversion	0.3		95.72	4.1329892329886375
+100	1000	Tournament(6)	Order Crossover (OX1)	0.55	inversion	0.3		95.2	3.841874542459709
+100	1000	Tournament(6)	Order Crossover (OX1)	0.6	inversion	0.3		94.8	3.6715119501371642
+100	1000	Tournament(6)	Order Crossover (OX1)	0.65	inversion	0.3		96.32	3.9316154440636732
+100	1000	Tournament(6)	Order Crossover (OX1)	0.7	inversion	0.3		96.2	4.252058325093861
+100	1000	Tournament(6)	Order Crossover (OX1)	0.75	inversion	0.3		95.92	4.083331972788889
+100	1000	Tournament(6)	Order Crossover (OX1)	0.8	inversion	0.3		94.76	3.140445828222483
+100	1000	Tournament(6)	Order Crossover (OX1)	0.85	inversion	0.3		95.92	3.670640271124371
+100	1000	Tournament(6)	Position Based Crossover (POS)	0.5	inversion	0.3		95.68	3.972102717705069
+100	1000	Tournament(6)	Position Based Crossover (POS)	0.55	inversion	0.3		94.6	4.0398019753448295
+100	1000	Tournament(6)	Position Based Crossover (POS)	0.6	inversion	0.3		95.6	3.883297567789522
+100	1000	Tournament(6)	Position Based Crossover (POS)	0.65	inversion	0.3		93.76	3.2221731797034137
+100	1000	Tournament(6)	Position Based Crossover (POS)	0.7	inversion	0.3		95.2	3.7576588456111875
+100	1000	Tournament(6)	Position Based Crossover (POS)	0.75	inversion	0.3		95.88	4.292505096094822
+100	1000	Tournament(6)	Position Based Crossover (POS)	0.8	inversion	0.3		95.08	3.7085846356797627
+100	1000	Tournament(6)	Position Based Crossover (POS)	0.85	inversion	0.3		95.04	4.029689814365369
+100	1000	Tournament(6)	One Cut Recombination (ONECUT)	0.5	inversion	0.3		96.48	3.8535178733204294
+100	1000	Tournament(6)	One Cut Recombination (ONECUT)	0.55	inversion	0.3		96.08	3.582401429209184
+100	1000	Tournament(6)	One Cut Recombination (ONECUT)	0.6	inversion	0.3		94.8	3.714835124201343
+100	1000	Tournament(6)	One Cut Recombination (ONECUT)	0.65	inversion	0.3		95.72	3.9751226396175516
+100	1000	Tournament(6)	One Cut Recombination (ONECUT)	0.7	inversion	0.3		96.28	4.538898544801371
+100	1000	Tournament(6)	One Cut Recombination (ONECUT)	0.75	inversion	0.3		95.32	3.5857495729623947
+100	1000	Tournament(6)	One Cut Recombination (ONECUT)	0.8	inversion	0.3		96.6	4.630334761116088
+100	1000	Tournament(6)	One Cut Recombination (ONECUT)	0.85	inversion	0.3		96.2	4.345112196480086

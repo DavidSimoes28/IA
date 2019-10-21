@@ -1,0 +1,10 @@
+Population size:	Max generations:	Selection:	Recombination:	Recombination prob.:	Mutation:	Mutation prob.:		Average:	StdDev:
+100	500	Tournament(4)	One Cut Recombination (ONECUT)	0.5	inversion	0.3		45.16	0.5425863986500215
+100	500	Tournament(4)	One Cut Recombination (ONECUT)	0.55	inversion	0.3		45.16	0.5425863986500215
+100	500	Tournament(4)	One Cut Recombination (ONECUT)	0.6	inversion	0.3		45.08	0.39191835884530835
+100	500	Tournament(4)	One Cut Recombination (ONECUT)	0.65	inversion	0.3		45.12	0.474973683481517
+100	500	Tournament(4)	One Cut Recombination (ONECUT)	0.7	inversion	0.3		45.2	0.6000000000000003
+100	500	Tournament(4)	One Cut Recombination (ONECUT)	0.75	inversion	0.3		45.24	0.6499230723708767
+100	500	Tournament(4)	One Cut Recombination (ONECUT)	0.8	inversion	0.3		45.12	0.47497368348151725
+100	500	Tournament(4)	One Cut Recombination (ONECUT)	0.85	inversion	0.3		45.08	0.39191835884530823
+100	500	Tournament(4)	One Cut Recombination (ONECUT)	0.9	inversion	0.3		45.04	0.27999999999999997

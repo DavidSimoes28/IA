@@ -1,0 +1,2 @@
+Obtamos por escolher uma população 100 e geração 1000 para que em sitoaçoes mais complexas seja possivel encontrar 
+a melhor solução possivel. Poderia haver soluções melhores mas pelo motivo já referido decidimos escolher esta soluçao
